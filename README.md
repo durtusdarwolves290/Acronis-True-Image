@@ -209,4 +209,4 @@ This repository serves as the official landing page for Acronis True Image. The 
 **Get the most recent version of Acronis True Image today!**
 
 ---
-**Last updated:** 2026-11-08 02:00:03 UTC
+**Last updated:** 2026-11-08 08:52:20 UTC
